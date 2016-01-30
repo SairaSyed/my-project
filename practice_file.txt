@@ -3,5 +3,5 @@ i am going to commit this change now.
 I successfully pushed changes! this is so cool!
 now i have a branch called bla. i swiched from bla to 
 master and now adding these lines.i will commit these
-changes first than push the changes to my online git 
+changes first then push the changes to my online git 
 repository.
