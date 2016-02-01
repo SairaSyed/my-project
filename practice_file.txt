@@ -5,7 +5,8 @@ now i have a branch called bla. i swiched from bla to
 master and now adding these lines.i will commit these
 changes first then push the changes to my online git 
 repository.
-I closed the terminal, and opened it again. I managed to do -lst,found
-cd to pratic-git and did ls and found the directory my-project!
+I closed the terminal, and opened it again. I managed to do -alt,
+cd to pratic-git and did ls and found the directory my-project inside
+the practice-git.!
 my-progject has practice_file.txt. I opend it in vim using the command
 vim pratice_file.txt
