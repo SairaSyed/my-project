@@ -10,3 +10,6 @@ cd to pratic-git and did ls and found the directory my-project inside
 the practice-git.!
 my-progject has practice_file.txt. I opend it in vim using the command
 vim pratice_file.txt
+I am just going to do the same today, i mean go to terminal,find the 
+directory using the command -alt. cd to git-practice ls and cd to my-project.
+open practice_file.txt. 
