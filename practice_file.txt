@@ -13,3 +13,6 @@ vim pratice_file.txt
 I am just going to do the same today, i mean go to terminal,find the 
 directory using the command -alt. cd to git-practice ls and cd to my-project.
 open practice_file.txt. 
+Hi 
+I am back! glad that i was able to get at this point, I 
+mean starting from the terminal to here!
